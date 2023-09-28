@@ -16,6 +16,3 @@ I also have alot of personal projects such as bots which interact with specific 
 
 ### What am I currently working on?
 Mostly working on rebuilding Bird Tracker to support Supabase as well as a UI overhaul in order to release it on the Play Store.
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasssb1&hide=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
