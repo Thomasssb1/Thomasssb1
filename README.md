@@ -1,11 +1,9 @@
-### Thomas
-I currently am studying Computer Science at the University of Sheffield.<br>
-I enjoy writing programs in dart & python specifically but I also use other programming languages such as javascript and julia.
-Specifically, I am interested in AI and automation using AI techniques - I enjoy training image recognition models & STT models and seeing the outcome of them when customised with different parameters.
+<img src=https://www.sheffield.ac.uk/themes/custom/uos_public/images/logos/uos-crest.svg width=100 alt="University of Sheffield logo">
+<p>I'm Thomas and I am currently studying Computer Science at the University of Sheffield.</p>
 
 ---
 ## Things I have worked on
-Most, if not all, of my projects are uploaded under the name [Red Shock Entertainment](https://github.com/red-shock), this is a group where most work is uploaded which is either collaboratory or made solo by me.
+Most, if not all, of my projects are uploaded under the name [Red Shock Entertainment](https://github.com/red-shock) ![Red Shock Entertainment logo](https://avatars.githubusercontent.com/u/134847576?s=20&v=4), this is a group where most work is uploaded which is either collaboratory or made solo by me.
 - Bird Tracker - Flutter, Dart, Supabase, Tensorflow, Python <br>
   Not currently released, but you can see the [youtube video](https://youtu.be/RZ105B2EbC4) I created to show it off as it was my A-Level computer science project. 
 - [reddit-2-video](https://github.com/Thomasssb1/reddit-2-video) - Dart, FFmpeg
