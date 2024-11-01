@@ -1,8 +1,6 @@
-#### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=20/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width=20/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20 />
-
-#### Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=20 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width=20 /> 
-
+## Hey, I am Thomas
 ### What am I currently working on?
-Mostly working on rebuilding Bird Tracker to support Supabase as well as a UI overhaul in order to release it on the Play Store.
+Mostly working on rebuilding Bird Tracker from the ground up by using AWS RDS, Spring Boot and redesigning the front-end entirely (still using Flutter). <br>
+Currently, I am also trying to learn some more React so I can begin to create apps using React Native.
+<br><br>
+You can check out my public apps [here](https://play.google.com/store/apps/developer?id=Red+Shock+Entertainment), some apps are unavailable on the play store but can be downloaded via their repositories. While you're at it, check out my web extensions [here](https://github.com/stars/Thomasssb1/lists/web-extensions).
